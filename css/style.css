@@ -1,0 +1,97 @@
+html{
+    background-color: black;
+    color: white;
+}
+.pho{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border-color: azure;
+    position: relative;
+    left: 1.8%;
+    top:1.8%;
+}
+.fondo{
+    background-color: orange;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+
+}
+.mov{
+    width: 100%;
+    height: auto;
+    padding: 0%;
+    margin: 0%;
+}
+.mov1{
+    position: relative;
+}
+.bio{
+    position: relative;
+    top: 40%;
+    text-align: center;
+}
+.nom{
+    position: absolute;
+    top: 10%;
+    left: 22%;
+}
+.dedi{
+    position: absolute;
+    top: 30%;
+    left: 22%;
+}
+.dat{
+    background-color: #1A1A1A ;
+    border-radius: .5em;
+    width: 30%;
+    height: auto;
+    padding: 5%;
+    margin: 1%;
+}
+.cont{
+    display: flex;
+    position: relative;
+    left: 2%;
+}
+.añ{
+    position: relative;
+    top: 3px;   
+    left: 1%; 
+
+}
+h4,p{
+    padding: 0%;
+    margin: 0%;
+    margin-top: 15px;
+}
+p{
+    font-size: 14px;
+}
+.info{
+    text-align: center;
+}
+.uni{
+    display: flex;
+    width: 80%;
+    position: absolute;
+    left: 15%;
+}
+.colo_negro{
+    background-color: #0F0F0F;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    border-radius: .5em;
+}
+.PLC{
+    position: relative;
+    /* padding: 0%; */
+    margin: 0%;
+    top: 5px;   
+    left: 30%;    
+}
+.or{
+    color: orange;
+}
